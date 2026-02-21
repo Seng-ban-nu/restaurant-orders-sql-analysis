@@ -60,7 +60,9 @@ Observed that larger orders often include multiple categories
 
 Evaluated average pricing differences across cuisine types
 
-5. SQL Concepts Demonstrated
+
+1. SQL Concepts Demonstrated
+
 
 SELECT statements
 
@@ -80,7 +82,9 @@ LEFT JOIN between tables
 
 Business-oriented data analysis
 
-6. Skills Demonstrated
+
+2. Skills Demonstrated
+
 
 Relational database understanding
 
